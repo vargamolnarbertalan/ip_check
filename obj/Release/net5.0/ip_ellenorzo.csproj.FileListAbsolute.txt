@@ -1,0 +1,16 @@
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\bin\Release\net5.0\ip_ellenorzo.exe
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\bin\Release\net5.0\ip_ellenorzo.deps.json
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\bin\Release\net5.0\ip_ellenorzo.runtimeconfig.json
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\bin\Release\net5.0\ip_ellenorzo.runtimeconfig.dev.json
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\bin\Release\net5.0\ip_ellenorzo.dll
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\bin\Release\net5.0\ref\ip_ellenorzo.dll
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\bin\Release\net5.0\ip_ellenorzo.pdb
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.AssemblyInfoInputs.cache
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.AssemblyInfo.cs
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.csproj.CoreCompileInputs.cache
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.dll
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ref\ip_ellenorzo.dll
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.pdb
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.genruntimeconfig.cache
+D:\C-ről másolt\c#\ip_ellenorzo\ip_ellenorzo\obj\Release\net5.0\ip_ellenorzo.csprojAssemblyReference.cache
